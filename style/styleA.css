@@ -1,0 +1,29 @@
+.container1{
+  font:40px Tahoma;
+  width:100px;
+  height:100px;
+  margin:4px auto;
+  text-align: center;
+  border-top:1px solid #687291;
+  background-color:#dfe1e7;
+}
+
+.container2{
+  font:40px Tahoma;
+  width:100px;
+  height:100px;
+  margin:4px auto;
+  text-align: center;
+  border-top:1px solid #687291;
+  background-color:#eeeff2;
+}
+
+.container3{
+  font:40px Tahoma;
+  width:100px;
+  height:100px;
+  margin:4px auto;
+  text-align: center;
+  border:4px solid black;
+  background-color:#687291;
+}
