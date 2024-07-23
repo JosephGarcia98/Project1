@@ -1,0 +1,23 @@
+.container{
+  font:40px Tahoma;
+  width:100px;
+  height:150px;
+  margin:10px;
+  padding:10px;
+  display:inline-block;
+  background-color:#eeeff2;
+  border-left: dotted 10px #D0D0FF;
+  cursor:pointer;
+  position:relative;
+}
+
+.bottom {
+    position:absolute;
+    bottom:0;
+    right:0;
+}
+
+.container:hover {
+  background-color:yellow;
+  color:goldenrod;
+}
