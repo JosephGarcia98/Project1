@@ -1,4 +1,4 @@
-.container{
+div.container{
   font:40px Tahoma;
   width:100px;
   height:150px;
@@ -11,13 +11,13 @@
   position:relative;
 }
 
-.bottom {
+div.bottom {
     position:absolute;
     bottom:0;
     right:0;
 }
 
-.container:hover {
+div.container:hover {
   background-color:yellow;
   color:goldenrod;
 }
